@@ -309,7 +309,7 @@ Start typing — autocompletion will assist you.
 
 # **Requirements**
 
-From `pyproject.toml` ():
+From `pyproject.toml`:
 
 * Python ≥ 3.12
 * prompt-toolkit ≥ 3.0.52
